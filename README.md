@@ -24,3 +24,18 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jees47&show_icons=true&locale=en&layout=compact" alt="jees47" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jees47&" alt="jees47" /></p>
+
+<br />
+
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   </p>
+   
+   
+<br />
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
