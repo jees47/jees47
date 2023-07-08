@@ -30,7 +30,7 @@
     </td>
     <td style="width: 50%;">
       <a href="https://app.daily.dev/jees_47">
-        <img src="https://api.daily.dev/devcards/670faa294a384199a62bf7c6b33be752.png?r=2sy" width="250" alt="jeesmon joy's Dev Card"/>
+        <img src="https://github.com/jees47/jees47/blob/main/devcard.svg" width="250" alt="jeesmon joy's Dev Card"/>
       </a>
     </td>
   </tr>
