@@ -10,7 +10,7 @@
         <img src="https://komarev.com/ghpvc/?username=jees47&label=Profile%20views&color=0e75b6&style=flat" alt="jees47" />
       </p>
       <ul>
-        <li><b>🔭 I’m currently working on:</b> CultureNow</li>
+<!--         <li><b>🔭 I’m currently working on:</b> CultureNow</li> -->
         <li><b>🌱 I’m currently learning:</b> Node.js</li>
         <li><b>💬 Ask me about:</b> Reactjs, Nextjs, Javascript</li>
         <li><b>📫 How to reach me:</b> jeesmonjoy246813@gmail.com</li>
